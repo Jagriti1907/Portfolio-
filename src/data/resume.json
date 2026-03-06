@@ -1,0 +1,389 @@
+{
+  "basics": {
+    "name": "Jagriti Singh",
+    "title": "Product Designer | UI/UX | Experience Strategy",
+    "summary": "I am a Product Designer (UI/UX) who builds through the lens of Engineering Precision. My background in Mechanical Engineering taught me one thing: Great design isn't just about how it looks, it's about how it works—with zero failure and maximum efficiency. Currently, I am driving product experience and growth initiatives at IIT Delhi, IIT Bombay, and HCL GUVI.",
+    "location": "Kolkata, West Bengal, India",
+    "email": "singhjagriti200328@gmail.com",
+    "phone": "+917007916181",
+    "links": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/jagriti-singh-920374286" },
+      { "name": "Behance", "url": "https://www.behance.net/jagritisingh20" },
+      { "name": "Portfolio", "url": "https://www.behance.net/jagritisingh20" }
+    ],
+    "highlights": [
+      "Strategic Product Design: Expertise in Figma and end-to-end prototyping, focusing on scalable design systems and high-fidelity user journeys.",
+      "Quality-First Logic: I apply Total Quality Management (TQM) and Root Cause Analysis (RCA) principles to digital products. My goal is to reduce 'user friction' the same way an engineer reduces 'mechanical friction'—through meticulous auditing and data-driven iteration.",
+      "Execution Excellence: From orchestrating workflows for 2,000+ participants to ensuring 100% accuracy in project deliverables, I thrive in high-stakes technical ecosystems."
+    ]
+  },
+  "experience": [
+    {
+      "company": "Hireyy",
+      "role": "Talent Acquisition Trainee",
+      "dates": "March 2026 - Present",
+      "location": "",
+      "bullets": []
+    },
+    {
+      "company": "Tatva, IIT Bombay",
+      "role": "Product Evangelist Intern | IIT Bombay (Tatva)",
+      "dates": "February 2026 - Present",
+      "location": "",
+      "bullets": []
+    },
+    {
+      "company": "TRYST, IIT Delhi",
+      "role": "Product Experience & Outreach Intern | IIT Delhi (Tryst'26)",
+      "dates": "February 2026 - March 2026",
+      "location": "District Rank 1",
+      "bullets": [
+        "Strategic Growth & User Acquisition: Spearheaded outreach initiatives to expand the digital footprint of Tryst, IIT Delhi, driving significant user engagement and brand awareness across regional networks.",
+        "Regional Leadership: Secured District Rank 1 among a competitive pool of ambassadors by consistently delivering high-impact results and optimizing outreach strategies.",
+        "Performance Excellence: Achieved a top-tier performance milestone of 10,018 credits, demonstrating exceptional dedication to project goals and community scaling.",
+        "Market Penetration: Acted as a key liaison between the IIT Delhi organizing committee and the student community, facilitating seamless communication and enhancing product visibility.",
+        "Stakeholder Engagement: Leveraged networking and interpersonal skills to cultivate a robust community of tech enthusiasts, ensuring a high conversion rate for event registrations and platform interactions."
+      ]
+    },
+    {
+      "company": "NIT Trichy",
+      "role": "Program Experience Associate (Intern) | Pragyan NIT Trichy 2026",
+      "dates": "February 2026 - February 2026",
+      "location": "",
+      "bullets": [
+        "Selected for a program-based engagement role supporting Pragyan 2026 initiatives.",
+        "Executed structured participant engagement workflows through coordinated digital touchpoints and event communications.",
+        "Assisted in pre-event operations, audience onboarding, and information flow management.",
+        "Collaborated with organizing teams to streamline coordination processes and ensure smooth program execution.",
+        "Participated in the Blueprint UI/UX Competition, contributing to interface flow analysis and experience design concepts.",
+        "Successfully completed program tenure on 22 Feb with consistent involvement across engagement and design-related activities."
+      ]
+    },
+    {
+      "company": "HCL GUVI",
+      "role": "Product Growth Intern | AI Impact Summit (Buildathon) Top 4",
+      "dates": "January 2026 - February 2026",
+      "location": "Product Growth Associate",
+      "bullets": [
+        "Worked as Program Engagement Associate for AI Impact Summit (Buildathon).",
+        "Onboarded 500+ participants, secured Top 4 national ranking.",
+        "Coordinated participant onboarding & event readiness.",
+        "Supported execution workflows for summit operations (16th–20th Feb).",
+        "Driving user adoption for the AI Impact Buildathon, targeting a network of 2,000+ developers.",
+        "Collaborating with technical teams to optimize the participant onboarding journey from registration to submission.",
+        "Implementing digital growth strategies to increase the visibility of AI-driven initiatives."
+      ]
+    },
+    {
+      "company": "Indian Institute of Technology, Delhi",
+      "role": "Digital Project Associate Intern | BECon'26",
+      "dates": "December 2025 - January 2026",
+      "location": "e-DC, IIT DELHI",
+      "bullets": [
+        "Ranked in Top 1% with Diamond Tier performance recognition.",
+        "Achieved Global Rank #395 with 1227+ merit points across thousands of participants.",
+        "Supported participant onboarding and engagement workflows for event operations.",
+        "Executed 28+ structured task modules with 100% completion on IIT Delhi performance portal.",
+        "Assisted in coordination, reporting, and process tracking for digital project activities.",
+        "Awarded ‘Diamond Performer’ for exceptional execution of BECon'26, IIT Delhi's flagship summit.",
+        "Led digital outreach for 5,000+ participants, streamlining workflows to improve resource discoverability.",
+        "Acted as the primary liaison for student community engagement and digital campaign deliverables."
+      ]
+    },
+    {
+      "company": "PIE INFOTECH",
+      "role": "User Interface Designer",
+      "dates": "November 2025 - December 2025",
+      "location": "",
+      "bullets": [
+        "User-Centric Interface Design: Conceptualized and designed intuitive user interfaces (UI) and seamless user experiences (UX) for digital products, ensuring a balance between aesthetics and functionality.",
+        "Wireframing & Prototyping: Developed high-fidelity wireframes and interactive prototypes to visualize user journeys, improving the design-to-development handoff process.",
+        "UX Research & Analysis: Conducted thorough user research and usability testing to identify pain points, translating complex user requirements into elegant design solutions.",
+        "Design Systems: Established and maintained consistent design systems and component libraries to ensure brand visual identity across multiple platforms.",
+        "Cross-functional Collaboration: Collaborated closely with product managers and developers to iterate on designs based on technical feasibility and business objectives."
+      ]
+    },
+    {
+      "company": "Pripsh IT Solutions and Consulting",
+      "role": "System Architect",
+      "dates": "November 2025 - November 2025",
+      "location": "",
+      "bullets": [
+        "Design System Architecture: Spearheaded the development and maintenance of comprehensive, scalable design systems and centralized Figma libraries to ensure cross-platform visual consistency.",
+        "Component Engineering: Engineered a robust library of reusable UI components with advanced properties and variants, significantly reducing design debt and accelerating the prototyping phase.",
+        "Scalability and Standardization: Established standardized design tokens and documentation frameworks, enabling seamless synchronization between design assets and front-end development.",
+        "Workflow Optimization: Optimized team collaboration workflows by implementing version control and systematic updates within Figma, improving overall design-to-production efficiency.",
+        "Strategic Technical Oversight: Provided architectural guidance to ensure that design solutions were technically feasible and aligned with the long-term product roadmap and user experience goals."
+      ]
+    },
+    {
+      "company": "Cognifyz Technologies",
+      "role": "User Interface Designer",
+      "dates": "October 2025 - November 2025",
+      "location": "Nagpur",
+      "bullets": [
+        "High-Fidelity Interface Development: Specialized in creating visually compelling and pixel-perfect digital interfaces, focusing on aesthetic consistency and brand alignment.",
+        "Responsive Design Optimization: Engineered adaptive layouts across diverse screen resolutions to ensure a cohesive user experience on mobile, web, and desktop platforms.",
+        "Interactive Element Design: Developed micro-interactions and dynamic UI elements to enhance user engagement and provide intuitive navigation flows.",
+        "Collaborative Prototyping: Worked in synergy with development teams to transform static designs into functional assets, ensuring high technical accuracy during implementation.",
+        "Executed end-to-end design for Healthcare Dashboards and Task Management Apps.",
+        "Developed responsive high-fidelity wireframes and interactive prototypes in Figma and Adobe XD.",
+        "Conducted usability testing to identify friction points, significantly improving platform navigation.",
+        "Managed Design-to-Code handoff with developers to ensure consistency with established Design Systems."
+      ]
+    },
+    {
+      "company": "CodeAlpha",
+      "role": "User Interface Designer",
+      "dates": "September 2025 - October 2025",
+      "location": "3 months",
+      "bullets": [
+        "Visual Identity Development: Crafted cohesive visual languages and color palettes to strengthen brand recognition across all digital touchpoints.",
+        "Micro-interaction Design: Engineered subtle animations and interactive transitions to provide real-time feedback and enhance user satisfaction.",
+        "Asset Optimization: Managed the export and preparation of high-quality graphics and SVG assets, ensuring optimal performance and loading speeds.",
+        "Interface Iteration: Refined layout structures based on user feedback loops to improve navigation clarity and overall aesthetic appeal."
+      ]
+    },
+    {
+      "company": "CodeAlpha",
+      "role": "Human Resources Intern",
+      "dates": "August 2025 - September 2025",
+      "location": "",
+      "bullets": [
+        "Operational Reporting & Analysis: Structured and maintained comprehensive HR reports to track key workforce metrics, ensuring data accuracy for management review.",
+        "Documentation & Compliance: Managed the lifecycle of employee records and sensitive documentation, upholding strict standards of organizational confidentiality.",
+        "Administrative Lifecycle Support: Streamlined internal reporting workflows to assist in the seamless execution of HR operations and employee engagement initiatives.",
+        "Data-Driven Coordination: Collaborated on the synthesis of departmental data to provide actionable insights for internal audits and performance tracking."
+      ]
+    },
+    {
+      "company": "Alfido Tech",
+      "role": "UI/UX",
+      "dates": "September 2025 - September 2025",
+      "location": "Indore, Madhya Pradesh, India",
+      "bullets": [
+        "End-to-End User Journey Mapping: Designed comprehensive user flows and site maps to streamline navigation and enhance the overall digital experience.",
+        "Inclusive Design Implementation: Prioritized accessibility standards (WCAG) to create inclusive interfaces that cater to diverse user needs and abilities.",
+        "Visual Hierarchy Optimization: Leveraged typography, spatial grids, and color theory to establish a clear visual hierarchy, guiding users toward key call-to-action (CTA) elements.",
+        "Rapid Prototyping & Iteration: Produced quick-turnaround interactive mockups to validate design concepts and incorporate stakeholder feedback in real-time."
+      ]
+    },
+    {
+      "company": "CodSoft",
+      "role": "UX Developer",
+      "dates": "August 2025 - September 2025",
+      "location": "Kolkata, West Bengal, India",
+      "bullets": [
+        "Design-to-Code Integration: Specialized in translating complex UI mockups and interactive prototypes into high-fidelity, production-ready front-end components.",
+        "Component-Driven Development: Engineered modular and reusable interface elements, ensuring consistent behavior and styling across various web and mobile frameworks.",
+        "Technical Feasibility Consulting: Acted as a liaison between design and engineering teams to validate the technical viability of design concepts before the development phase."
+      ]
+    },
+    {
+      "company": "Codec Technologies India",
+      "role": "Artificial Intelligence Intern",
+      "dates": "August 2025 - September 2025",
+      "location": "Mumbai, Maharashtra, India",
+      "bullets": [
+        "Data Synthesis & Pre-processing: Assisted in the curation and structuring of large datasets, ensuring high-quality input for machine learning model validation.",
+        "AI Research & Benchmarking: Conducted comparative analysis of emerging AI tools and frameworks to support internal feasibility studies and technical documentation.",
+        "Model Testing Support: Participated in the iterative testing of automated workflows, identifying edge cases to improve the accuracy and reliability of AI-driven solutions.",
+        "Prompt Engineering & Optimization: Leveraged advanced prompting techniques to refine the outputs of Large Language Models (LLMs) for specific business use cases."
+      ]
+    },
+    {
+      "company": "CODEXINTERN",
+      "role": "Python Developer",
+      "dates": "July 2025 - August 2025",
+      "location": "",
+      "bullets": [
+        "Backend Logic Development: Engineered clean and efficient Python scripts to automate complex workflows and improve data processing speed.",
+        "Bug Tracking & Debugging: Conducted rigorous code reviews and debugging sessions to enhance system stability and performance.",
+        "Algorithm Implementation: Integrated fundamental data structures and algorithms to solve logical challenges within core modules."
+      ]
+    },
+    {
+      "company": "Amdox Technologies",
+      "role": "User Interface Architect",
+      "dates": "June 2025 - July 2025",
+      "location": "Bengaluru",
+      "bullets": [
+        "High-Level Design Strategy: Developed the structural framework for complex web applications, focusing on information architecture and scalability.",
+        "Design-to-Dev Synchronization: Established technical guidelines for UI implementation, ensuring 100% fidelity between design files and live code.",
+        "Standardized Layouts: Created structural templates to maintain aesthetic harmony across large-scale enterprise platforms."
+      ]
+    },
+    {
+      "company": "Oasis Infobyte",
+      "role": "Python Developer",
+      "dates": "April 2025 - May 2025",
+      "location": "",
+      "bullets": [
+        "Version Control Integration: Leveraged Git and GitHub for collaborative development, ensuring streamlined code merging and documentation.",
+        "Application Prototyping: Developed functional backend prototypes to validate software requirements during the initial development phase.",
+        "Environment Optimization: Configured development environments in VS Code to enhance coding efficiency and deployment cycles."
+      ]
+    },
+    {
+      "company": "CODTECH IT SOLUTIONS",
+      "role": "User Experience Designer",
+      "dates": "April 2025 - April 2025",
+      "location": "",
+      "bullets": [
+        "Heuristic Evaluation: Performed detailed UX audits to identify usability gaps and implemented data-driven design improvements.",
+        "User Flow Optimization: Designed logical navigation paths to minimize user friction and improve task completion rates.",
+        "Contextual Research: Conducted user-centric research to translate business goals into meaningful digital experiences."
+      ]
+    },
+    {
+      "company": "TechnoHacks EduTech",
+      "role": "UX Designer",
+      "dates": "February 2025 - March 2025",
+      "location": "3 months",
+      "bullets": [
+        "Figma Component Management: Built interactive high-fidelity mockups using advanced Figma features like auto-layout and prototyping.",
+        "Educational Interface Design: Tailored UX solutions specifically for ed-tech platforms to improve student engagement and learning accessibility.",
+        "Iterative Design: Refined interface elements based on usability testing feedback to ensure a smooth end-user journey."
+      ]
+    },
+    {
+      "company": "Prompt Engineer",
+      "role": "Prompt Engineer",
+      "dates": "January 2025 - February 2025",
+      "location": "",
+      "bullets": [
+        "LLM Output Calibration: Developed and refined complex prompts to maximize the accuracy and relevance of AI-generated content.",
+        "Natural Language Optimization: Structured linguistic inputs to minimize biases and improve the conversational flow of AI models.",
+        "AI Workflow Efficiency: Streamlined automated content generation tasks through strategic prompt engineering techniques."
+      ]
+    },
+    {
+      "company": "Codec Technologies India",
+      "role": "User Experience Designer",
+      "dates": "November 2024 - December 2024",
+      "location": "Mumbai, Maharashtra, India",
+      "bullets": [
+        "Cross-Platform Interface Strategy: Designed cohesive user interfaces for diverse digital products, focusing on seamless transitions between web and mobile environments.",
+        "Interaction Modeling: Developed interactive wireframes to map user journeys, ensuring all touchpoints align with core business objectives.",
+        "Usability Analysis: Evaluated design prototypes against user experience standards to minimize friction and enhance overall platform accessibility."
+      ]
+    },
+    {
+      "company": "E-Cell, IIT Bombay",
+      "role": "Campus Executive",
+      "dates": "August 2023 - November 2024",
+      "location": "Mumbai, Maharashtra, India",
+      "bullets": [
+        "Entrepreneurial Ecosystem Advocacy: Acted as a strategic representative to promote entrepreneurship initiatives and startup culture within the academic community.",
+        "Stakeholder Management: Orchestrated communication between E-Cell IIT Bombay and student entrepreneurs to facilitate resource sharing and event participation.",
+        "Strategic Growth: Assisted in scaling outreach programs by identifying and engaging potential leads for flagship entrepreneurial summits.",
+        "Collaborated with cross-functional teams to streamline recruitment processes, reducing time-to-hire and improving candidate experience.",
+        "Assisted in designing training sessions, promoting employee development and enhancing team performance metrics."
+      ]
+    },
+    {
+      "company": "Unified Mentor Private Limited",
+      "role": "Web Development Intern",
+      "dates": "June 2024 - July 2024",
+      "location": "Gurugram, Haryana, India",
+      "bullets": [
+        "Frontend Architecture & Styling: Leveraged advanced CSS techniques to build responsive and visually engaging web layouts across various devices.",
+        "Component Optimization: Refined frontend codebases to improve page load performance and ensure cross-browser compatibility.",
+        "Collaborative Development: Partnered with senior developers to translate UI mockups into functional web assets using clean, maintainable code."
+      ]
+    },
+    {
+      "company": "LUDIFU (Let Us Do It For U)",
+      "role": "Intern",
+      "dates": "May 2023 - June 2023",
+      "location": "Mumbai, Maharashtra, India",
+      "bullets": [
+        "Resource Optimization & Planning: Supported operational workflows by managing departmental resources and streamlining project timelines.",
+        "Executive Presentation Design: Developed high-impact visual reports and presentations using Microsoft PowerPoint to communicate project milestones to stakeholders.",
+        "Workflow Support: Facilitated day-to-day administrative tasks to ensure the smooth execution of client-focused service delivery."
+      ]
+    }
+  ],
+  "achievements": [
+    { "title": "2x National Hackathon Finalist", "context": "Recognized at SkyHack & Build for Bharat (Top 35) for architecting fail-safe system logic." },
+    { "title": "Diamond Performer", "context": "Ranked in the Top 1% at IIT Delhi (BECon'26) for exceptional project execution." },
+    { "title": "District Rank 1", "context": "Tryst’26, IIT Delhi" },
+    { "title": "Top 4 | HCL GUVI", "context": "AI Impact Summit (Buildathon)" },
+    { "title": "Global Rank #395", "context": "With 1227+ merit points across thousands of participants at IIT Delhi." },
+    { "title": "10,018 Credits", "context": "Achieved top-tier performance milestone at Tryst, IIT Delhi." }
+  ],
+  "projects": [
+    {
+      "title": "PikaTrade Mobile App",
+      "stack": "Figma, Mobile Prototyping",
+      "location": "NIT Hacks 8.0 Hackathon (NIT, Silchar)",
+      "bullets": [
+        "Spearheaded the architecture of a high-fidelity mobile prototype in Figma, consolidating fragmented trading data into a unified visual system.",
+        "Optimized navigational flow by integrating advanced filtering logic and a rigorous visual hierarchy.",
+        "Reduced cognitive load for users by streamlining complex data sets to enhance rapid decision-making."
+      ],
+      "links": [{ "name": "Behance", "url": "https://www.behance.net/jagritisingh20" }]
+    },
+    {
+      "title": "SafeTouch: Smart Rapid Safety System",
+      "stack": "Python, Wearable UX, Dashboard Design",
+      "location": "Hackathon (Build for Bharat Top 35 / SkyHack Finalist)",
+      "bullets": [
+        "Engineered the user experience for a wearable-integrated safety ecosystem, focusing on frictionless interactions during high-stress scenario.",
+        "Developed an intuitive Guardian Monitoring Dashboard and executed interaction validation via Python to guarantee instantaneous SOS triggers.",
+        "Conceptualized a responsive framework for real-time emergency monitoring and rapid response activation."
+      ],
+      "links": [{ "name": "Github", "url": "https://github.com" }]
+    }
+  ],
+  "skills": {
+    "design": ["UI/UX Design", "Wireframing", "Rapid Prototyping", "User Research", "Information Architecture", "Usability Testing", "Heuristic Evaluation", "Strategic Product Design", "Scalable Design Systems", "High-fidelity User Journeys"],
+    "tools": ["Figma (Proficient)", "Adobe XD", "Canva", "Zeplin", "Miro", "Visual Code Studio", "Excel", "PowerPoint", "Microsoft Copilot"],
+    "tech": ["Prompt Engineering", "LLM Optimization", "HTML/CSS", "Python (Foundational)", "Git/GitHub", "Computational Fluid Dynamics (CFD)"],
+    "workflow": ["Agile Methodology", "Trello", "Asana", "Cross-functional Communication", "Total Quality Management (TQM)", "Root Cause Analysis (RCA)"],
+    "management": ["Project Management", "Mobile Applications", "Program Engagement", "Talent Acquisition", "Stakeholder Management"]
+  },
+  "education": [
+    {
+      "institution": "Ghani Khan Choudhury Institute of Engineering and Technology",
+      "degree": "B.Tech, Mechanical Engineering",
+      "dates": "November 2022 - June 2026",
+      "location": "malda West Bengal",
+      "details": "8.08 CGPA. Expected June 2026.",
+      "courses": ["Logo Design Essential", "UI/UX Design Essentials", "User Experience (UX) Research", "Interaction Design", "Visual Hierarchy & Typography", "Usability Testing", "Information Architecture"]
+    },
+    {
+      "institution": "Little Flower House Senior Secondary School",
+      "degree": "12th, Physical Chemistry Maths",
+      "dates": "March 2020 - March 2021",
+      "location": "",
+      "details": ""
+    }
+  ],
+  "certifications": [
+    "Effective Leadership",
+    "Certificate of Participation in NeuroHACK of Shaastra 2026",
+    "Certified Learner",
+    "Round 1: Online Quiz of MathCasino",
+    "Certificate of Participation in Idea Submission Round of Build for Bharat: Student Innovators Challenge"
+  ],
+  "awards": [
+    "District Rank 1 | Tryst’26, IIT Delhi",
+    "Top 4 | HCL GUVI",
+    "Finalist | Build for Bharat Innovators",
+    "Stage 2 Qualifier | All India Women Start-a-thon (AIWOS)",
+    "Round 2 Qualifier | Design Rush, IIT BHU"
+  ],
+  "extra": {
+    "languages": [
+      { "name": "Spanish", "level": "Elementary" },
+      { "name": "Hindi", "level": "Native or Bilingual" },
+      { "name": "Japanese", "level": "Elementary" },
+      { "name": "German", "level": "Limited Working" },
+      { "name": "French", "level": "Limited Working" },
+      { "name": "English", "level": "Professional Working" },
+      { "name": "English", "level": "Full Professional" }
+    ],
+    "interests": ["Analyzing User Behavior", "Exploring Design Psychology", "Photography", "Prototyping Future-tech"]
+  }
+}
